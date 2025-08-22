@@ -1,0 +1,11 @@
+StudentID,Name,Marks,Attendance,Subject
+1,A,85,90,Math
+2,B,70,85,Science
+3,C,90,95,Math
+4,D,60,70,English
+5,E,75,88,Science
+6,F,88,92,English
+7,G,92,96,Math
+8,H,55,65,Science
+9,I,68,78,English
+10,J,80,83,Math
