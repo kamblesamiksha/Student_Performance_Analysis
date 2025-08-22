@@ -1,0 +1,11 @@
+OrderID,Product,Region,Sales
+1,Laptop,North,1200
+2,Mobile,South,800
+3,Tablet,East,600
+4,Laptop,West,1500
+5,Mobile,North,900
+6,Tablet,South,700
+7,Laptop,East,1100
+8,Mobile,West,950
+9,Tablet,North,720
+10,Laptop,South,1300
